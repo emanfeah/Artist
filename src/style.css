@@ -1,0 +1,23 @@
+.container{
+    padding-top: 20px;
+    margin: 20px; 
+  } 
+
+
+   h1{
+    text-align: center; 
+    color: rgb(27, 16, 27);  
+     } 
+
+   h6{
+       color: black;
+     }
+.img-res{
+  width: 350px;
+  height: 350px;
+}
+
+.card{
+  margin: 20px;  
+
+}
